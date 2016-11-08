@@ -1,0 +1,6 @@
+framework module FDKeychain {
+  umbrella header "FDKeychain-umbrella.h"
+
+  export *
+  module * { export * }
+}
